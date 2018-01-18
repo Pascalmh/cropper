@@ -1,0 +1,11 @@
+{
+  "name": "fengyuanchen/cropper",
+  "version": "3.1.5",
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/fengyuanchen/cropper"
+    }
+  ]
+}
